@@ -1,5 +1,5 @@
 {
-  "name": "advanceddsa.js",
+  "name": "dsaadvanced.js",
   "version": "1.0.1",
   "description": "An npm package that gives you famous dsa algos",
   "main": "index.js",
